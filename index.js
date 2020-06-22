@@ -2,4 +2,4 @@
 document.getElementByTagName("main")[0].remove()
 
 
-const newHeader;
+const newHeader = 1;
