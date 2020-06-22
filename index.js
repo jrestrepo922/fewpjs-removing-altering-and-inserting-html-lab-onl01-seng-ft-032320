@@ -1,5 +1,6 @@
 // Write your code here!
-document.getElementByTagName("main")[0].remove()
+
+let elementMain = document.querySelector("main#main");
+elementMain.remove;
 
 
-const newHeader = 1;
