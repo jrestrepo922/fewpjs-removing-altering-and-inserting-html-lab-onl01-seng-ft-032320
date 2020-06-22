@@ -7,4 +7,4 @@ elementMain.remove();
 var newHeader = document.createElement("h1");
 
 newHeader.setAttribute("id", "victory");
-newHeader.textContent = "Arv is the Champion";
+newHeader.textContent = "Arv is the champion";
